@@ -1,0 +1,7 @@
+#jei padarai commita ir nori ji nuimt: git reset HEAD~1 (HEAD - rodo paskutini commita.
+ sita komanda nukreipia HEAD vienu commitu atgal)
+
+ #norint istrint pakeitimus ir nueit i kazkuri commita praeity:
+ git reset --hard c151s1d5d44f6sd5f16sd5c1sd654cs65 (commito numeris tas)
+
+ fork - nusikopijuot kitu repositorijas pas save. Ir tada gali daryt PR tarp repositoriju
